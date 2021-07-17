@@ -1,0 +1,38 @@
+Loops/Iterative Statements
+
+- Iterator
+- Condition
+- Increment/Decrement
+
+
+Types:
+- Entry controlled
+1. For loop
+2. While loop
+3. For each loop
+
+- Exit controlled 
+1. Do while loop
+
+
+
+for (<initialisation>; <condition>; <inc/dec>)
+{
+	//Code
+}
+
+
+
+*
+* *
+* * *
+* * * *
+* * * * *
+
+
+
+* * * * *
+* * * *
+* * *
+* * 
+*
